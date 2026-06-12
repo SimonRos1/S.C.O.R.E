@@ -147,22 +147,18 @@ python -m uvicorn src.api.main:app --reload
 
 ## Performance Metrics
 
-- **OCR Accuracy Target**: 95%+
-- **Processing Speed**: < 5 seconds per page
-- **Error Detection Rate**: 90%+
-- **System Uptime**: 99.9%
+- **OCR Accuracy Target**: unavailible
+- **Processing Speed**: unavailible
+- **Error Detection Rate**: unavailible
+- **System Uptime**: unavailible
 
 ---
 
 ## Contributing
 
-We welcome contributions! Please follow our contributing guidelines:
+We dont welcome contributions! Please follow our guidelines:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Forking is only allowed under the rules of the gpl 3 License
 
 ---
 
