@@ -176,10 +176,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions, issues, or suggestions, please reach out to the development team or open an issue on GitHub.
 
-**Project Lead**: [Your Name]  
+**Project Lead**: [Urvish L. & Theo F.]  
 **Repository**: https://github.com/Homelessness-Hobbylessness/S.C.O.R.E
 
 ---
 
-**Project Start Date**: June 12, 2026  
+**Project Start Date**: June 12, 2026
+**Expected ReleaseDate**: 2028-2029
 **Status**: In Development
