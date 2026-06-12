@@ -16,20 +16,20 @@
 
 ## Project Roadmap
 
-### <input type="checkbox" checked disabled> Phase 1: Initial Planning
-- <input type="checkbox" checked disabled> Define project scope and objectives
-- <input type="checkbox" checked disabled> Identify key stakeholders and requirements
-- <input type="checkbox" checked disabled> Establish technical architecture
-- <input type="checkbox" checked disabled> Plan resource allocation
-- <input type="checkbox" checked disabled> Create initial documentation
+### <input type="checkbox" disabled> Phase 1: Initial Planning
+- <input type="checkbox" disabled> Define project scope and objectives
+- <input type="checkbox" disabled> Identify key stakeholders and requirements
+- <input type="checkbox" disabled> Establish technical architecture
+- <input type="checkbox" disabled> Plan resource allocation
+- <input type="checkbox" disabled> Create initial documentation
 
-### <input type="checkbox" checked disabled> Phase 2: Extensive Overview & Requirements Analysis
-- <input type="checkbox" checked disabled> Conduct market research and competitive analysis
-- <input type="checkbox" checked disabled> Document detailed functional requirements
-- <input type="checkbox" checked disabled> Design system architecture and data models
-- <input type="checkbox" checked disabled> Plan database schema
-- <input type="checkbox" checked disabled> Create API specifications
-- <input type="checkbox" checked disabled> Establish quality assurance standards
+### <input type="checkbox" disabled> Phase 2: Extensive Overview & Requirements Analysis
+- <input type="checkbox" disabled> Conduct market research and competitive analysis
+- <input type="checkbox" disabled> Document detailed functional requirements
+- <input type="checkbox" disabled> Design system architecture and data models
+- <input type="checkbox" disabled> Plan database schema
+- <input type="checkbox" disabled> Create API specifications
+- <input type="checkbox" disabled> Establish quality assurance standards
 
 ### <input type="checkbox" disabled> Phase 3: Core Overview & System Design
 - <input type="checkbox" disabled> Develop technical specifications
@@ -181,5 +181,5 @@ For questions, issues, or suggestions, please reach out to the development team 
 
 ---
 
-**Last Updated**: June 2026  
+**Project Start Date**: June 12, 2026  
 **Status**: In Development
